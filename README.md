@@ -77,7 +77,7 @@ root
  
  |-- vp: string (nullable = true)
 
- <img src="https://imgur.com/a/MeunFW0"> 
+ ![logs_data](https://imgur.com/a/MeunFW0) 
 
 **Processing Data**
 
