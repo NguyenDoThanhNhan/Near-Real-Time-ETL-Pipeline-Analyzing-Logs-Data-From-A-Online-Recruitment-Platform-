@@ -77,7 +77,7 @@ root
  
  |-- vp: string (nullable = true)
 
- <img src="[link_anh_cua_ban](https://imgur.com/a/MeunFW0)"> 
+ <img src="https://imgur.com/a/MeunFW0"> 
 
 **Processing Data**
 
