@@ -1,7 +1,7 @@
 # Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform-
 
 **Introduction**
-This project builds a near real-time etl pipeline to analyze users' interaction logs data on an online recruitment platform. The project's objective is to calculate clicks, candidates' conversions, qualified candidates, and unqualified candidates of jobs posting on an online recruitment website/platform.
+This project builds a near real-time ETL pipeline to analyze users' interaction logs data on an online recruitment platform. The project's objective is to calculate clicks, candidates' conversions, qualified candidates, and unqualified candidates of jobs posting on an online recruitment website/platform.
 
 **Technology Stack**
 - Pyspack
@@ -77,7 +77,7 @@ root
  
  |-- vp: string (nullable = true)
 
- ![logs_data](https://imgur.com/a/MeunFW0) 
+
 
 **Processing Data**
 
@@ -129,4 +129,13 @@ root
  
  |-- latest_update_time: timestamp (nullable = true)
 
+**Change Data Capture - CDC**
+
+- Change Data Capture is a process that identifies and tracks changes to data in a database. CDC provides real-time or near real-time movement of data by moving and processing data continuously as new events occur.
+
+- In this project, CDC is used to recognize new records in Cassandra and run an ETL process to load the newly processed data to MySQL for in-depth analysis.
+
+**Airflow**
+
+**Data Visualization With Grafana**
 
