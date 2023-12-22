@@ -16,6 +16,8 @@ This project builds a near real-time ETL pipeline to analyze users' interaction 
 
 **Architechture**
 
+<img width="1089" alt="Không có tiêu đề 2" src="https://github.com/NguyenDoThanhNhan/Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform-/assets/121624967/d67a9720-d3e4-4523-b79e-8cc676897aba">
+
 **Logs Data**
 - Logs data is stored in Cassandra
 - Logs data schema:
