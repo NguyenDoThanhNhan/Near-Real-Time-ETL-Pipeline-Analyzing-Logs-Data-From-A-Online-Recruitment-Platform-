@@ -77,6 +77,7 @@ root
  
  |-- vp: string (nullable = true)
 
+<img width="1327" alt="Không có tiêu đề 2" src="https://github.com/NguyenDoThanhNhan/Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform-/assets/121624967/59f3f35d-cd88-4d01-b20c-e6d26933c840">
 
 
 **Processing Data**
