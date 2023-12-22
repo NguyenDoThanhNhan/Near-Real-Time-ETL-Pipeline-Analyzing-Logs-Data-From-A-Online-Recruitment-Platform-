@@ -130,6 +130,8 @@ root
  
  |-- latest_update_time: timestamp (nullable = true)
 
+ <img width="1330" alt="Không có tiêu đề 2" src="https://github.com/NguyenDoThanhNhan/Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform-/assets/121624967/b8ece5bd-7280-4bac-96cf-5e34b15ac47f">
+
 **Change Data Capture - CDC**
 
 - Change Data Capture is a process that identifies and tracks changes to data in a database. CDC provides real-time or near real-time movement of data by moving and processing data continuously as new events occur.
