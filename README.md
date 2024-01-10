@@ -1,4 +1,4 @@
-# Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform-
+# Near-Real-Time-ETL-Pipeline-Analyzing-Logs-Data-From-A-Online-Recruitment-Platform- (IN PROGRESS)
 
 **Introduction**
 This project builds a near real-time ETL pipeline to analyze users' interaction logs data on an online recruitment platform. The project's objective is to calculate clicks, candidates' conversions, qualified candidates, and unqualified candidates of jobs posting on an online recruitment website/platform.
